@@ -6,7 +6,7 @@ header nav{
     background-color: #6f7c81;
 }
 .card{
-    height: 800px;
+    
     justify-content: center;
     display: flex;
 }
@@ -17,12 +17,15 @@ header nav{
 }
 
 form .bg-bluePersonal:hover{
-    background-color: #6f7c81;
+    background-color: #99520f9d;
 
 }
 .itemLaranja{
     color:#221f1b ;
 }
 .btnCatalogo{
-    background-color: #6f7c81;
+    background-color: #924700c7;
+}
+.w-100 {
+    width: 100% !important;
 }
